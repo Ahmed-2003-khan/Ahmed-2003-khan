@@ -24,7 +24,7 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-2003-khan&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white" alt="GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
